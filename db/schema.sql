@@ -1,0 +1,1 @@
+-- TODO: esquema SQL con Sequelize migrations equivalentes
