@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SEES-DTE",
+    "slug": "sees-dte-ios",
+    "owner": "your-org",
+    "ios": {
+      "bundleIdentifier": "com.sees.dte",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}

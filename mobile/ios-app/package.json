@@ -1,0 +1,19 @@
+{
+  "name": "sees-dte-ios",
+  "version": "0.1.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo run:ios",
+    "prebuild": "expo prebuild -p ios"
+  },
+  "dependencies": {
+    "expo": "~51.0.0",
+    "expo-router": "^3.5.16",
+    "expo-notifications": "~0.28.12",
+    "expo-device": "~6.0.2",
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  }
+}

@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Env
+.env
+*.env
+
+# Build
+dist/
+build/
+.expo/
+*.ipa
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
